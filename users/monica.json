@@ -1,0 +1,30 @@
+{
+    "user": "Monica",
+    "pic": "../media/cliente.png",
+    "data": [
+        {
+            "id": 1,
+            "date": "03/02/2024",
+            "description": "Pago Netflix del periodo Enero-2024 (PAGADO)",
+            "amount": -250
+        },
+        {
+            "id": 2,
+            "date": "06/02/2024",
+            "description": "Deposito al Ahorro: +500MXN",
+            "amount": 500
+        },
+        {
+            "id": 3,
+            "date": "28/02/2024",
+            "description": "Pago Netflix del periodo Febrero-2024 (PAGADO)",
+            "amount": -250
+        },
+        {
+            "id": 4,
+            "date": "26/03/2024",
+            "description": "Deposito al Ahorro: +500MXN",
+            "amount": 500
+        }
+    ]
+}

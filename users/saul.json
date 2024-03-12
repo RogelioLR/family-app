@@ -1,0 +1,36 @@
+{
+    "user": "Saul",
+    "pic": "../media/cliente.png",
+    "data": [
+        {
+            "id": 1,
+            "date": "10/02/2024",
+            "description": "Renta en el periodo Enero-2024 a Febrero-2024 (PAGADO)",
+            "amount": 2250
+        },
+        {
+            "id": 2,
+            "date": "10/03/2024",
+            "description": "Renta en el periodo Febrero-2024 a Marzo-2024 (PAGADO)",
+            "amount": 2250
+        },
+        {
+            "id": 3,
+            "date": "10/04/2024",
+            "description": "Renta en el periodo Febrero-2024 a Marzo-2024 (PROXIMO)",
+            "amount": 0
+        },
+        {
+            "id": 4,
+            "date": "11/03/2024",
+            "description": "Barnizado de Muebles Adelanto por $400",
+            "amount": -400
+        },
+        {
+            "id": 5,
+            "date": "11/03/2024",
+            "description": "Prestamos Rogelio por $250",
+            "amount": -250
+        }
+    ]
+}

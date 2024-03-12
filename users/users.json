@@ -1,0 +1,29 @@
+{
+    "users": [
+        {
+            "name": "Martha",
+            "pass": 1234,
+            "doc": "martha.json"
+        },
+        {
+            "name": "Eduardo",
+            "pass": 1235,
+            "doc": "eduardo.json"
+        },
+        {
+            "name": "Monica",
+            "pass": 1236,
+            "doc": "monica.json"
+        },
+        {
+            "name": "Saul",
+            "pass": 1237,
+            "doc": "saul.json"
+        },
+        {
+            "name": "Rogelio",
+            "pass": 1238,
+            "doc": "rogelio.json"
+        }
+    ]
+}

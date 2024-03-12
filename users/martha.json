@@ -1,0 +1,72 @@
+{
+    "user": "Martha",
+    "pic": "../media/cliente.png",
+    "data": [
+        {
+            "id": 0,
+            "date": "No Aplica",
+            "description": "Inicio",
+            "amount": 39000
+        },
+        {
+            "id": 1,
+            "date": "05/02/2024",
+            "description": "Hospital Abuela por 5000 MXN",
+            "amount": -5000
+        },
+        {
+            "id": 2,
+            "date": "05/02/2024",
+            "description": "Deposito por 2000 MXN",
+            "amount": 2000
+        },
+        {
+            "id": 3,
+            "date": "09/02/2024",
+            "description": "Pago para el Plomero",
+            "amount": -500
+        },
+        {
+            "id": 4,
+            "date": "10/02/2024",
+            "description": "Pago Doctor/Pizza",
+            "amount": -500
+        },
+        {
+            "id": 5,
+            "date": "12/02/2024",
+            "description": "Deposito de 2000MXN",
+            "amount": 2000
+        },
+        {
+            "id": 6,
+            "date": "14/02/2024",
+            "description": "Pago a Doña Mary por 300MXN",
+            "amount": -300
+        },
+        {
+            "id": 7,
+            "date": "14/02/2024",
+            "description": "Prestamo a Doña Mary por 1000MXN",
+            "amount": -1000
+        },
+        {
+            "id": 8,
+            "date": "21/02/2024",
+            "description": "Prestamo a Monica Consulta Renata por 1000MXN",
+            "amount": -1000
+        },
+        {
+            "id": 9,
+            "date": "10/03/2024",
+            "description": "Servicio de Gas por 700MXN",
+            "amount": -700
+        },
+        {
+            "id": 10,
+            "date": "10/03/2024",
+            "description": "Crema y Masajeador de Pies por 1500MXN",
+            "amount": -1500
+        }
+    ]
+}

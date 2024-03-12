@@ -1,0 +1,12 @@
+{
+    "user": "Rogelio",
+    "pic": "../media/cliente.png",
+    "data": [
+        {
+            "id": 1,
+            "date": "11/02/2024",
+            "description": "Prestamo tomado de la Renta por 250MXN",
+            "amount": -250
+        }
+    ]
+}
